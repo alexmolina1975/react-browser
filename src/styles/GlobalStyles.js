@@ -16,6 +16,7 @@ export const GlobalStyles = createGlobalStyle`
     margin: 0;
     font-family: sans-serif;
     background-image: url('./public/background-stars.svg');
+    background-color: #FFFF;
   }
 
   a{
